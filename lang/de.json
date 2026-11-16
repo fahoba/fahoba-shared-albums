@@ -1,0 +1,18 @@
+{
+    "Anyone with the link can see the album — that is how Apple shares it.": "Wer den Link kennt, sieht das Album – so teilt Apple es.",
+    "Apple documents no interface for this. It works the way icloud.com reads the album and may stop without notice.": "Apple dokumentiert dafür keine Schnittstelle. Es funktioniert so, wie icloud.com das Album liest, und kann ohne Vorwarnung aufhören.",
+    "Grandma & Grandpa": "Oma & Opa",
+    "iCloud shared album": "Geteiltes iCloud-Album",
+    "In Synology Photos, share the album, switch on the public link without a password and copy it.": "Teilt das Album in Synology Photos, schaltet den öffentlichen Link ohne Passwort ein und kopiert ihn.",
+    "In the Photos app, open the shared album, tap the people icon and switch on “Public Website”; copy that link.": "Öffnet in der Fotos-App das geteilte Album, tippt auf das Personen-Symbol und schaltet „Öffentliche Website“ ein; kopiert diesen Link.",
+    "Link to the album": "Link zum Album",
+    "Name": "Name",
+    "Shows an album of Synology Photos by its sharing link.": "Zeigt ein Album aus Synology Photos über seinen Freigabe-Link.",
+    "Shows a shared iCloud album by its public link — no Apple account is stored.": "Zeigt ein geteiltes iCloud-Album über seinen öffentlichen Link – es wird kein Apple-Konto gespeichert.",
+    "Synology documents no interface for this. It works the way the sharing page reads the album and may stop after an update.": "Synology dokumentiert dafür keine Schnittstelle. Es funktioniert so, wie die Freigabeseite das Album liest, und kann nach einem Update aufhören.",
+    "The album could not be read. Is “Public Website” switched on?": "Das Album konnte nicht gelesen werden. Ist „Öffentliche Website“ eingeschaltet?",
+    "The album could not be read. Is the link public and without a password?": "Das Album konnte nicht gelesen werden. Ist der Link öffentlich und ohne Passwort?",
+    "The NAS must be reachable from the internet at this address — an address only valid at home is refused.": "Das NAS muss unter dieser Adresse aus dem Internet erreichbar sein – eine Adresse, die nur zu Hause gilt, wird abgelehnt.",
+    "This is not a link to a shared iCloud album.": "Das ist kein Link zu einem geteilten iCloud-Album.",
+    "This is not a sharing link of Synology Photos.": "Das ist kein Freigabe-Link aus Synology Photos."
+}

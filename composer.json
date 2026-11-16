@@ -1,0 +1,21 @@
+{
+    "name": "fahoba/shared-albums",
+    "description": "Photo frame sources: a public iCloud shared album or a Synology Photos sharing link",
+    "type": "library",
+    "version": "0.1.0",
+    "license": "PolyForm-Shield-1.0.0",
+    "require": {
+        "php": "^8.5",
+        "fahoba/plugin-api": "^0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fahoba\\SharedAlbums\\": "src/"
+        }
+    },
+    "extra": {
+        "fahoba": {
+            "provider": "Fahoba\\SharedAlbums\\SharedAlbumsPlugin"
+        }
+    }
+}
